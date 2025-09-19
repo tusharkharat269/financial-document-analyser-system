@@ -246,4 +246,12 @@ For issues and questions:
 
 ---
 
-**Built with using CrewAI and FastAPI**
+## Output
+
+![Quiz App Screenshot](outputs/pic_1.png)
+![Quiz App Screenshot](outputs/pic_2.png)
+![Quiz App Screenshot](outputs/pic_3.png)
+![Quiz App Screenshot](outputs/pic_4.png)
+
+
+**Buil using CrewAI and FastAPI**
